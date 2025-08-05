@@ -1,0 +1,36 @@
+{
+  "button.back": {
+    "defaultMessage": "Back"
+  },
+  "button.cancel": {
+    "defaultMessage": "Cancel"
+  },
+  "button.continue": {
+    "defaultMessage": "Continue"
+  },
+  "button.copy-id": {
+    "defaultMessage": "Copy ID"
+  },
+  "button.copy-permalink": {
+    "defaultMessage": "Copy permanent link"
+  },
+  "button.create-a-project": {
+    "defaultMessage": "Create a project"
+  },
+  "button.download": {
+    "defaultMessage": "Download"
+  },
+  "button.downloading": {
+    "defaultMessage": "Downloading"
+  },
+  "button.edit": {
+    "defaultMessage": "Edit"
+  },
+  "button.next": {
+    "defaultMessage": "Next"
+  },
+  "button.open-folder": {
+    "defaultMessage": "Open folder"
+  }
+}
+
